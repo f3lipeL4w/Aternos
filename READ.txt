@@ -1,0 +1,21 @@
+Welcome you Canadian bastards
+
+Aujourd'hui I'll be teaching you two how to install the modpack for my MC server in a way that even a monkey would understand.
+
+1. first make sure your Minecraft version is Forge 1.20.1
+      Click Installations on the launcher start page.
+      Click New. 
+      In the Create new installation box, select a name for the installation and choose the game version from the VERSION list. 
+      Click Create to save the change, and then click Play on the top menu.
+If you don't find the right version you may not have it, in that case you can get from: 
+https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
+
+2.Press windows key + R to open the run tab
+
+3. type: %appdata% and press OK
+
+4. Congrats! you just opened you Roaming paste, now copy "mods" and "shaderpack" of my GitHub into the .minecraft file found inside the Roaming paste
+
+5. Enter the game, go to Multiplayer and press Add Server, then type: Chinoa.aternos.me
+
+6. Enjoy
